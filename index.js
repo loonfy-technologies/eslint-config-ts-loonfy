@@ -15,6 +15,12 @@ module.exports = {
 					parameterProperties: 'explicit'
 				}
 			}
+		],
+		"@typescript-eslint/camelcase": [
+			"error",
+			{
+				properties: "never"
+			}
 		]
 	}
 };
