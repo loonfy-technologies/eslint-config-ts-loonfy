@@ -1,5 +1,5 @@
 # eslint-config-ts-loonfy
-ESLint rules for typescript Loonfy projects
+ESLint rules for typescript Loonfy projects 
 
 ## installation
 `npm install --save-dev https://github.com/loonfy-technologies/eslint-config-ts-loonfy.git @typescript-eslint/eslint-plugin @typescript-eslint/parser`
