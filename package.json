@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-ts-loonfy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loonfy-technologies/eslint-config-ts-loonfy.git"
+  },
+  "keywords": [
+    "eslint",
+    "loonfy"
+  ],
+  "author": "Loonfy Technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loonfy-technologies/eslint-config-ts-loonfy/issues"
+  },
+  "homepage": "https://github.com/loonfy-technologies/eslint-config-ts-loonfy#readme",
+  "peerDependencies": {
+    "eslint": ">= 6"
+  }
+}
